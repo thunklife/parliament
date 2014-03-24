@@ -1,0 +1,24 @@
+{
+  "name": "parliament",
+  "version": "0.0.0",
+  "description": "We Want the Func",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wilhelmson/parliament.git"
+  },
+  "keywords": [
+    "functional"
+  ],
+  "author": "wilhelmson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilhelmson/parliament/issues"
+  },
+  "devDependencies": {
+    "ink-docstrap": "~0.3.0-0"
+  }
+}
